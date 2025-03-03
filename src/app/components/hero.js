@@ -55,7 +55,6 @@ export default function Hero() {
         </motion.div>
       </div>
 
-      {/* Image Section */}
       <div className="w-full md:w-1/2 relative">
   <div
     className="w-full h-full bg-cover bg-center opacity-90"

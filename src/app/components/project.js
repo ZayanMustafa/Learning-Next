@@ -5,19 +5,27 @@ import { FaGithub, FaExternalLinkAlt, FaYoutube } from "react-icons/fa";
 const projects = [
   {
     id: 1,
-    name: "Custom Project 1",
-    description: "A brief description of the project.",
-    repoLink: "https://github.com/ZayanMustafa/project1",
-    liveDemo: "https://project1.live",
-    youtubeDemo: "https://youtube.com/demo1"
+    name: "ZayChat",
+    description: "ZayChat is a real-time private chat app with secure login, user search, and responsive UI design.",
+    repoLink: "https://zaychat.vercel.app/",
+    liveDemo: "https://zaychat.vercel.app/",
+    youtubeDemo: "https://youtu.be/UKUWGNomdOA?si=43Fx7cukwTbk3BMe"
   },
   {
     id: 2,
-    name: "Custom Project 2",
-    description: "Another project description.",
-    repoLink: "https://github.com/ZayanMustafa/project2",
-    liveDemo: "https://project2.live",
-    youtubeDemo: "https://youtube.com/demo2"
+    name: "QuipQuake-Generator",
+    description: "It's a Quote Generator! Brace yourself for a delightful surprise every time you click. Whether it's motivation, love, or other feelings you're after, our generator delivers. Let the magic of random quotes lift your spirits and ignite your day!",
+    repoLink: "https://github.com/ZayanMustafa/QuipQuake-Generator",
+    liveDemo: "https://zayanmustafa.github.io/QuipQuake-Generator/",
+    youtubeDemo: "https://youtu.be/lXuQTzXY2jg?si=SzFyS7AQkgvTf7Zm"
+  },
+  {
+    id: 3,
+    name: "TaskTracker",
+    description: "TaskTracker is a responsive to-do app designed with Bootstrap, ensuring seamless functionality across devices. Users can easily add, manage, and remove tasks with intuitive user interfaces tailored for desktop and mobile use.",
+    repoLink: "https://github.com/ZayanMustafa/TaskTracker",
+    liveDemo: "https://zayanmustafa.github.io/TaskTracker/",
+    youtubeDemo: "https://youtu.be/hRBmr_Xv-PY?si=ndNfyNRFDOhj6fR4"
   }
 ];
 
